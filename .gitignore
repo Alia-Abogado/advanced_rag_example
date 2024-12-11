@@ -1,0 +1,6 @@
+.env
+.chroma/
+.chroma
+.pytest_cache/
+.vscode/
+.DS_Store
